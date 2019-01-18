@@ -18,7 +18,7 @@ namespace C0730194
                 sum += 1;
             }
 
-            Console.WriteLine("The sum of the number is : {0}", sum);
+            Console.WriteLine("The sum of the number is: {0}", sum);
             Console.ReadLine();
         }
 
